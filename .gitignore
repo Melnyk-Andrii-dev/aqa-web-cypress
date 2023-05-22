@@ -1,0 +1,4 @@
+/cucumber-messages.ndjson
+/cucumber-report.json
+cypress/screenshots/search.feature/Search Feature -- Search End To End (failed).png
+cypress/videos/search.feature.mp4

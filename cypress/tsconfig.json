@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "target": "es6",
+      "lib": ["es6", "dom"],
+      "types": ["cypress", "node"],
+      "allowSyntheticDefaultImports": true,
+      "moduleResolution": "node",
+    
+    },
+    "include": ["D:/andrii-melnyk-task/cypress.config.ts"]
+}
